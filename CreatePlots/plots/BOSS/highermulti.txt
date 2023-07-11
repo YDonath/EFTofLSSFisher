@@ -1,0 +1,9 @@
+\begin{tabular}{lllll}
+\hline
+ \textbackslash{}sigma         & h      & ln(10\^{}\{10\}A\_s) & \textbackslash{}Omega\_m & n\_s   \\
+ \$P\_0+P\_2\$      & 0.014  & 0.16           & 0.012    & 0.067 \\
+ \$P\^{}r\$ full     & 0.014  & 0.16           & 0.012    & 0.067 \\
+ \$P\_0+P\_2+B\_0\$  & 0.0066 & 0.092          & 0.006    & 0.029 \\
+ \$P\^{}r+B\^{}r\$ full & 0.0067 & 0.055          & 0.0057   & 0.025 \\
+\hline
+\end{tabular}

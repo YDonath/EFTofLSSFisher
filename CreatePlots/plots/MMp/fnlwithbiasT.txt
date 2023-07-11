@@ -1,0 +1,9 @@
+\begin{tabular}{lllll}
+\hline
+ \textbackslash{}sigma                 & f\_\{NL\}\^{}\{eq\} & \textbackslash{}log(b\_1) & c\_2    & c\_4   \\
+ \$P+B\_\{Tree\}\$           & 41.0        & 0.00081   & 0.023  & 0.22  \\
+ \$P+B\$                  & 33.0        & 0.00076   & 0.0088 & 0.095 \\
+ \$P+B+pert. Prior\$      & 30.0        & 0.00036   & 0.0081 & 0.071 \\
+ \$P+B+pert. Prior+ g.p\$ & 23.0        & 0.00035   & 0.0045 & 0.048 \\
+\hline
+\end{tabular}

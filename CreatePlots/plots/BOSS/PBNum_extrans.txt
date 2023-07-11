@@ -1,0 +1,7 @@
+\begin{tabular}{llllll}
+\hline
+ \textbackslash{}sigma       & h     & ln(10\^{}\{10\}A\_s) & \textbackslash{}Omega\_m & n\_s   & \textbackslash{}Omega\_k \\
+ \$P\_\textbackslash{}ell\$     & 0.014 & 0.2            & 0.012    & 0.066 & 0.027    \\
+ \$P\_\textbackslash{}ell+B\_0\$ & 0.01  & 0.13           & 0.0089   & 0.037 & 0.017    \\
+\hline
+\end{tabular}

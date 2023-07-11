@@ -1,0 +1,8 @@
+\begin{tabular}{llllll}
+\hline
+ \textbackslash{}sigma                 & h      & ln(10\^{}\{10\}A\_s) & \textbackslash{}Omega\_m & n\_s    & \textbackslash{}Omega\_k \\
+ \$P+B\$                  & 0.003  & 0.0086         & 0.00061  & 0.003  & 0.0029   \\
+ \$P+B+pert. Prior\$      & 0.0028 & 0.0077         & 0.00055  & 0.0026 & 0.0025   \\
+ \$P+B+pert. Prior+ g.p\$ & 0.0027 & 0.0074         & 0.00053  & 0.0025 & 0.0023   \\
+\hline
+\end{tabular}

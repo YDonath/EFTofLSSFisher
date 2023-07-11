@@ -1,0 +1,8 @@
+\begin{tabular}{lllll}
+\hline
+ \textbackslash{}sigma                 & h      & ln(10\^{}\{10\}A\_s) & \textbackslash{}Omega\_m & \textbackslash{}log(\textbackslash{}sum\_im\_\{\textbackslash{}nu\_i\}/eV) \\
+ \$P+B\$                  & 0.0042 & 0.025          & 0.0034   & 0.63                     \\
+ \$P+B+pert. Prior\$      & 0.0041 & 0.024          & 0.0033   & 0.61                     \\
+ \$P+B+pert. Prior+ g.p\$ & 0.004  & 0.022          & 0.0031   & 0.58                     \\
+\hline
+\end{tabular}

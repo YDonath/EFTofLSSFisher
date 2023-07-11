@@ -1,0 +1,7 @@
+\begin{tabular}{lllll}
+\hline
+ \textbackslash{}sigma & h      & ln(10\^{}\{10\}A\_s) & \textbackslash{}Omega\_m & \textbackslash{}log(\textbackslash{}sum\_im\_\{\textbackslash{}nu\_i\}/eV) \\
+ P      & 0.0023 & 0.022          & 0.0015   & 0.38                     \\
+ P +B   & 0.001  & 0.0039         & 0.00037  & 0.083                    \\
+\hline
+\end{tabular}

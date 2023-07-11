@@ -1,0 +1,8 @@
+\begin{tabular}{llll}
+\hline
+ \textbackslash{}sigma                                & h      & ln(10\^{}\{10\}A\_s) & \textbackslash{}Omega\_m \\
+ \$P\_\textbackslash{}ell+B\_0\$ measured Cov.            & 0.0093 & 0.094          & 0.008    \\
+ \$P\_\textbackslash{}ell+B\_0\$ measured diagonal Cov.   & 0.007  & 0.066          & 0.0061   \\
+ \$P\_\textbackslash{}ell+B\_0\$ analytical diagonal Cov. & 0.0065 & 0.064          & 0.0059   \\
+\hline
+\end{tabular}

@@ -1,0 +1,7 @@
+\begin{tabular}{lllll}
+\hline
+ \textbackslash{}sigma       & h      & ln(10\^{}\{10\}A\_s) & \textbackslash{}Omega\_m & \textbackslash{}log(\textbackslash{}sum\_im\_\{\textbackslash{}nu\_i\}/eV) \\
+ \$P\_\textbackslash{}ell\$     & 0.011  & 0.14           & 0.011    & 2.3                      \\
+ \$P\_\textbackslash{}ell+B\_0\$ & 0.0092 & 0.095          & 0.008    & 1.6                      \\
+\hline
+\end{tabular}

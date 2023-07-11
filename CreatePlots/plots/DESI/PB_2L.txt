@@ -1,0 +1,7 @@
+\begin{tabular}{llll}
+\hline
+ \textbackslash{}sigma  & h      & ln(10\^{}\{10\}A\_s) & \textbackslash{}Omega\_m \\
+ P +B    & 0.0034 & 0.013          & 0.0014   \\
+ P 2L +B & 0.0034 & 0.013          & 0.0014   \\
+\hline
+\end{tabular}

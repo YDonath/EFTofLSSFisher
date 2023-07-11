@@ -1,0 +1,7 @@
+\begin{tabular}{llll}
+\hline
+ \textbackslash{}sigma                  & h      & ln(10\^{}\{10\}A\_s) & \textbackslash{}Omega\_m \\
+ P\_l + B\_0               & 0.011  & 0.11           & 0.011    \\
+ P\_l + B\_0 measured Cov. & 0.0093 & 0.094          & 0.008    \\
+\hline
+\end{tabular}
