@@ -1,5 +1,5 @@
 # EFTofLSSFisher: Fisher forecasts with the EFTofLSS
-[![](https://img.shields.io/badge/arXiv-2307.04992/
+[![](https://img.shields.io/badge/arXiv-2307.04992%20
 red.svg)](https://arxiv.org/abs/2307.04992
 )
 [![](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/YDonath/EFTofLSSFisher/LICENSE](https://github.com/YDonath/EFTofLSSFisher/blob/main/LICENSE))
