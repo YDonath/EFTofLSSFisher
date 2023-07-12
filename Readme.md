@@ -1,10 +1,13 @@
 # EFTofLSSFisher: Fisher forecasts with the EFTofLSS
-[![](https://img.shields.io/badge/arXiv-2003.---red.svg)](https://arxiv.org/abs/---)
+[![](https://img.shields.io/badge/arXiv-2307.04992
+red.svg)](https://arxiv.org/abs/2307.04992
+)
 [![](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/nivu17/EFTofLSSFisher/LICENSE](https://github.com/nivu17/EFTofLSSFisher/blob/main/LICENSE))
 ## General info
 EFTofLSSFisher is a code written in Mathematica and Python, designed to forecast cosmological constraints from future cosmological surveys using the power spectrum and bispectrum of biased tracers in redshift space at the one loop order. The equations it is based on can be found in  [arXiv:2211.17130](https://arxiv.org/abs/2211.17130), and the integration techniques are from [arXiv:2212.07421](https://arxiv.org/abs/2212.07421) and the code is the [IntegerInt](https://github.com/dbraganca/python-integer-powers), for which we include the setup files. 
 
-Details about the procedure and results are in [arXiv:---](https://arxiv.org/abs/---)
+Details about the procedure and results are in [arXiv:2307.04992
+](https://arxiv.org/abs/)
 
 ## Dependencies
 Apart from pip-installable numerical libraries like [NumPy](https://numpy.org/) and [SciPy](http://scipy.org/), linear power spectra and transfer functions are computed with [CLASS](https://lesgourg.github.io/class_public/class.html).
